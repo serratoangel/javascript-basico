@@ -47,4 +47,4 @@ This project was created following the YouTube video.
 
 - Website [serratoangel.vercel.app](https://portfolio-serratoangel.vercel.app/)
 - GitHub [@serratoangel](https://github.com/serratoangel)
-- LinkedIn [/in/angel-serrato/](https://www.linkedin.com/in/angel-serrato/)
+- LinkedIn [/in/angel-serrato/](https://www.linkedin.com/in/serrato-angel/)
